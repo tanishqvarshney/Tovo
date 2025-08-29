@@ -7,6 +7,14 @@ A full-stack **real-time chat & video platform** for language exchange learners,
 ### Video 
 https://www.youtube.com/watch?v=BHzO0Yzdofo
 
+### Screenshots
+
+<img width="1466" height="795" alt="Screenshot 2025-08-28 at 9 16 31 PM" src="https://github.com/user-attachments/assets/bb0bc364-8513-4913-b7d9-6539b89971db" />
+<img width="1470" height="797" alt="Screenshot 2025-08-28 at 9 18 11 PM" src="https://github.com/user-attachments/assets/d927bcfb-5325-4458-be1c-8d663c3a4f47" />
+<img width="1470" height="796" alt="Screenshot 2025-08-28 at 9 18 31 PM" src="https://github.com/user-attachments/assets/4221288d-6c71-4b1c-82d3-40ce7845f62c" />
+<img width="1470" height="793" alt="Screenshot 2025-08-28 at 9 19 36 PM" src="https://github.com/user-attachments/assets/e4dbb014-ca1f-49c0-8081-8ec8cbb677ac" />
+<img width="1470" height="796" alt="Screenshot 2025-08-28 at 9 20 31 PM" src="https://github.com/user-attachments/assets/471d855c-c72e-478c-96d2-7b9db46d5876" />
+
 ---
 
 ## ✨ Highlights
