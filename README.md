@@ -4,6 +4,11 @@ A full-stack **real-time chat & video platform** for language exchange learners,
 
 ---
 
+### Video 
+https://www.youtube.com/watch?v=BHzO0Yzdofo
+
+---
+
 ## ✨ Highlights
 
 - 🌐 **Real-time Messaging** with typing indicators & reactions  
